@@ -34,7 +34,7 @@ scattle:Coturnix
 fostrie:depolish6
 barrxhorr:plasmogeny3
 makiomed:competitor6
-tuchillpro:UIgC
+tuchillpro:
 keymialia:
 racercoba:
 akumillne:
@@ -45,6 +45,6 @@ updateson:
 brombert:
 royalcortli:
 daysisende:
-wareamin:
+wareamin:UIgC
 bobhyper:
 sparkbear:
